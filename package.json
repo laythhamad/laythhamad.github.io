@@ -1,5 +1,5 @@
 {
-  "name": "tunis",
+  "name": "layth",
   "version": "2.2.1",
   "private": true,
   "dependencies": {
@@ -49,5 +49,5 @@
   "devDependencies": {
     "sass": "^1.52.2"
   },
-"homepage": "http://172.26.207.38/"
+"homepage": "https://laythhamad.github.io/layth"
 }
