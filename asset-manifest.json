@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.39f1658b.css",
-    "main.js": "/static/js/main.92fa21d3.js",
+    "main.js": "/static/js/main.a92d62f2.js",
     "static/js/787.f6977c32.chunk.js": "/static/js/787.f6977c32.chunk.js",
     "static/media/video.mp4": "/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -12,6 +12,7 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/rtl.jpg": "/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
+    "static/media/img-mobile.jpg": "/static/media/img-mobile.db6ae4c4e82a888c3fdf.jpg",
     "static/media/cv.webp": "/static/media/cv.174d8bc4469f8aa7c5fa.webp",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -21,11 +22,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.39f1658b.css.map": "/static/css/main.39f1658b.css.map",
-    "main.92fa21d3.js.map": "/static/js/main.92fa21d3.js.map",
+    "main.a92d62f2.js.map": "/static/js/main.a92d62f2.js.map",
     "787.f6977c32.chunk.js.map": "/static/js/787.f6977c32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39f1658b.css",
-    "static/js/main.92fa21d3.js"
+    "static/js/main.a92d62f2.js"
   ]
 }
